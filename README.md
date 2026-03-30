@@ -4,6 +4,7 @@ Project of using [Pyfolio-Reloaded](https://github.com/stefan-jansen/pyfolio-rel
 It is best to create an anaconda environment using Python 3.13 with Jupyter notebook, Yahoo finance (yfinance) and then install the above modules using
 
 pip install pyfolio-reloaded
+
 pip install zipline-reloaded 
 
 For a range of currency pairs, the moving average selected with the best information ratio are picked to execute trades. 
