@@ -7,6 +7,8 @@ pip install pyfolio-reloaded
 
 pip install zipline-reloaded 
 
+Some data are included but one can also fetch economic data directly from Federal Reserve Bank of St. Louis using the [findatapy](https://github.com/cuemacro/finmarketpy).
+
 For a range of currency pairs, the moving average selected with the best information ratio are picked to execute trades. 
 
 Both python script file and the associated notebook file as well as the data are included but it is best to use the Jupyter notebook version.
